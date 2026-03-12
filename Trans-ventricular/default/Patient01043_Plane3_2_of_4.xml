@@ -1,0 +1,35 @@
+<annotation>
+  <filename>Patient01043_Plane3_2_of_4.png</filename>
+  <folder></folder>
+  <source>
+    <sourceImage></sourceImage>
+    <sourceAnnotation>Datumaro</sourceAnnotation>
+  </source>
+  <imagesize>
+    <nrows>661</nrows>
+    <ncols>959</ncols>
+  </imagesize>
+  <object>
+    <name>Brain</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <date></date>
+    <id>0</id>
+    <parts>
+      <hasparts></hasparts>
+      <ispartof></ispartof>
+    </parts>
+    <segm>
+      <mask>Patient01043_Plane3_2_of_4_mask_0.png</mask>
+      <box>
+        <xmin>222.00</xmin>
+        <ymin>20.00</ymin>
+        <xmax>868.00</xmax>
+        <ymax>562.00</ymax>
+      </box>
+      <username></username>
+    </segm>
+    <attributes>age=, weight=, pixel_size=</attributes>
+  </object>
+</annotation>
